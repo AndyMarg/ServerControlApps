@@ -1,3 +1,4 @@
+-- Комментарий
 /*
 SQLyog Ultimate v11.42 (64 bit)
 MySQL - 5.5.41-0ubuntu0.14.04.1 : Database - tools
